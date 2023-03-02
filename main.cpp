@@ -7,15 +7,6 @@
 using namespace cv;
 using namespace std;
 
-/// <summary>
-/// 
-/// Äîïîëíåííàÿ ðåàëüíîñòü ñ ïîëüçîâàòåëüñêèìè ìåòêàìè
-/// 
-/// Ðàçðàáîò÷èê: Õàðèòîíîâ Ë.Ñ.
-/// Äàòà: 10.01.2023
-/// 
-/// </summary>
-
 int main(int argc, char* argv[])
 {
 	setlocale(0, "ru");
